@@ -24,54 +24,34 @@ Act as a professional ad stratagist and create impactful advertising idias for a
 Give me 10 creative Hindi hook lines ideas which can be used at the initial time of the ad. Remember we are displaying this ad in short content platforms like YT shorts, facebook reels, Instagram reels and etc. The hook lines need to be catchy enough so that people will litsen or watch it till end.
 
 ### 4. Output — Script V1
-1.
-
-“Job kar rahe ho… ya bas time pass?”
+1. “Job kar rahe ho… ya bas time pass?”
 → Slightly provocative. Grabs attention instantly.
 
-2.
-
-**“Salary badh nahi rahi… ya skills?”
+2. **“Salary badh nahi rahi… ya skills?”
 → Forces quick self-check.**                  <-- I choosed this
 
-3.
-
-“Promotion chahiye… ya sirf wait karoge?”
+3. “Promotion chahiye… ya sirf wait karoge?”
 → Pushes urgency.
 
-4.
-
-“9–5 se life set nahi hoti… skill se hoti hai.”
+4. “9–5 se life set nahi hoti… skill se hoti hai.”
 → Strong, truth-based statement.
 
-5.
-
-“Office ke baad ka 2 ghanta… future bana sakta hai.”
+5. “Office ke baad ka 2 ghanta… future bana sakta hai.”
 → Very practical + actionable angle.
 
-6.
-
-“Degree sabke paas hai… growth sirf kuch logon ke paas.”
+6. “Degree sabke paas hai… growth sirf kuch logon ke paas.”
 → Creates contrast.
 
-7.
-
-“Same job, same salary… kab tak?”
+7. “Same job, same salary… kab tak?”
 → Simple, but emotionally effective.
 
-8.
-
-“Job chhode bina career upgrade karna hai?”
+8. “Job chhode bina career upgrade karna hai?”
 → Direct hook + curiosity.
 
-9.
-
-“Aaj kaam kar rahe ho… ya kal ke liye prepare?”
+9. “Aaj kaam kar rahe ho… ya kal ke liye prepare?”
 → Future-oriented thinking.
 
-10.
-
-“Agar aap nahi badloge… toh aapki position bhi nahi badlegi.”
+10. “Agar aap nahi badloge… toh aapki position bhi nahi badlegi.”
 → Straight cause-effect, very impactful.
 
 ### 5. creating script 

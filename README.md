@@ -87,6 +87,7 @@ Use the hook line: "Salary badh nahi rahi… ya skills?"
 Keep it under 30 seconds and make it emotional.
 
 **version 2 with refinement:**
+
 Act as a professional ad scriptwriter.
 
 Create a 25–30 second storytelling-style ad script for MIT SDE.
